@@ -1,17 +1,19 @@
 # A project using React & Next.JS
 ## An app to devs or gamers who stay in front of your computer a lot. 
 
-## First of all. You've to install yarn and node (type in your cmd yarn -v & node -v to check if you already have).
+## How to run the project:
 
-## Installing
-### npm install --global yarn (to install yarn).
-### npm install next react
-### https://nodejs.org/en/download/ (to install node).
+### Clone the project and open it in your code editor favorite
 
+```
+#install dependencies
+yarn 
 
-### Now just copy the repository and use *yarn dev* in your cmd to run the project.
-### Open http://localhost:3000 in browser.
+#run the project
+yarn dev
+```
 
+### Open the project: http://localhost:3000/
 
 # Screenshots
 
