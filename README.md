@@ -10,7 +10,7 @@
 yarn 
 
 #run the project
-yarn dev
+yarn start
 ```
 
 ### Open the project: http://localhost:3000/
